@@ -23,8 +23,7 @@ The Jupyter notebook includes:
 - Exploratory Data Analysis (EDA) using pandas, matplotlib, and seaborn
 - Insights to support visualizations in Power BI
 
-📄 File: [analysis.ipynb](./analysis.ipynb)
-
+📄 File: Regional-Sales-Analysis/Regional Sales Analysis_a.ipynb
 ---
 
 ## 🛠 Tools & Technologies
