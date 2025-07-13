@@ -13,8 +13,7 @@ The Power BI dashboard includes:
 - Contribution by segments or customer types
 
 📁 You can find the Power BI file here:  
-➡  - File: [Regional-Sales-Analysis.pbix](./Regional-Sales-Analysis/Regional-Sales-Analysis.pbix)
-
+➡  [Regional-Sales-Analysis.pbix](./Regional-Sales-Analysis/Regional-Sales-Analysis.pbix)
 ---
 
 ## 🐍 Python Notebook
